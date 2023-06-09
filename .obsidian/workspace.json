@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "c50ee928a73f9438",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee9352a86b9f3e4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8203821e34665ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Develop/markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb0254db112dcaa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0ec419848c9485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca88dfed3373a63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca3eac69f846ebe7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b3a97aaaf7c4933",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f03555ef92c5f92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "fcc268f29b918cbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d1e2ee59bb187c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53277d9bc33d6b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Develop/markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a49fc1564c6e96d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Develop/markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d988427fe961c443",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa58d657a8c74c14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Develop/markdown.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "d8203821e34665ad",
+  "lastOpenFiles": [
+    "[.md",
+    "Develop/markdown.md",
+    "ссылка.md",
+    "Humor/anecdot.md",
+    "TheBat!.md",
+    "Soft/Organizer/Obsidan.md",
+    "Soft/WWW/Browser/Vivaldi.md",
+    "Soft/WWW/Browser/User Agent.md",
+    "Soft/WWW/Browser/FireFox.md",
+    "Soft/Shell/Total Commander.md",
+    "Soft/WWW/Browser/Yandex.md",
+    "Soft/WWW/Browser/Chrome.md",
+    "OS/Unix/Ubuntu.md",
+    "Soft/Net/Anydesk.md",
+    "Develop/Batch_cmd/example.md",
+    "Develop/Batch_cmd/Batch.md",
+    "Develop/Batch_cmd",
+    "Develop/PowerShell/example.md",
+    "Develop/PowerShell",
+    "OS/Windows/PowerShell.md",
+    "OS/Unix/Admin_Tips&Trick.md",
+    "Soft/WWW/VoIP/Telegram.md",
+    "Soft/Player/Audio/Audacious.md",
+    "OS/Unix/LINUX_Command_Cheat_Sheet.md",
+    "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
+    "Soft/Reader/Calibre.md",
+    "Soft/Mail",
+    "Soft/WWW/Downloader/VH/yt-dlp.md",
+    "Soft/Convert/Video/FFmpeg.md",
+    "Soft/Convert/Video",
+    "Soft/Convert",
+    "Soft/WWW/Downloader/VH/yt-dlp_README.md",
+    "Soft/WWW/Downloader/VH/yt-dlp_README.html",
+    "Soft/WWW/Downloader/VH",
+    "Develop/ActiveState",
+    "Soft/WWW/RSS"
+  ]
+}

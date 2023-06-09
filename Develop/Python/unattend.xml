@@ -1,0 +1,25 @@
+<Options>
+<Option Name="InstallAllUsers" Value="yes" />
+<Option Name="TargetDir" Value="D:\Python" />
+<Option Name="DefaultJustForMeTargetDir" Value="D:\Python" />
+<Option Name="DefaultCustomTargetDir" Value="D:\Python" />
+<Option Name="AssociateFiles" Value="yes" />
+<Option Name="AppendPath" Value="yes" />
+<Option Name="CompileAll" Value="yes" />
+<Option Name="PrependPath" Value="yes" />
+<Option Name="Shortcuts" Value="yes" />
+<Option Name="Include_doc" Value="yes" />
+<Option Name="Include_debug" Value="no" />
+<Option Name="Include_dev" Value="yes" />
+<Option Name="Include_exe" Value="yes" />
+<Option Name="Include_launcher" Value="yes" />
+<Option Name="InstallLauncherAllUsers" Value="yes" />
+<Option Name="Include_lib" Value="yes" />
+<Option Name="Include_pip" Value="yes" />
+<Option Name="Include_symbols" Value="no" />
+<Option Name="Include_tcltk" Value="yes" />
+<Option Name="Include_test" Value="yes" />
+<Option Name="Include_tools" Value="yes" />
+<Option Name="SimpleInstall" Value="yes" />
+<Option Name="SimpleInstallDescription">Automatic Install</Option>
+</Options>

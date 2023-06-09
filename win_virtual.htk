@@ -1,0 +1,25 @@
+hotKeys7 4 1
+win1
+
+\lwin\tab\sleep\1\tab\enter
+
+
+131073 49 1 0 1 0 27 0 0
+win2
+
+\lwin\tab\sleep\1\tab\right\enter
+
+
+196609 50 1 0 1 0 27 0 0
+win3
+
+\lwin\tab\sleep\1\tab\right\right\enter
+
+
+262145 51 1 0 1 0 27 0 0
+win4
+
+\lwin\tab\sleep\1\tab\right\right\right\enter
+
+
+327681 52 1 0 1 0 27 0 0
