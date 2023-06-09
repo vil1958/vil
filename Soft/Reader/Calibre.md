@@ -4,19 +4,19 @@ https://calibre-ebook.com/download
 **Изменения:**  
 [https://calibre-ebook.com/whats-new](https://softoroom.org/go.php?go=https://calibre-ebook.com/whats-new)
 
-[Calibre 6.19.1](https://github.com/kovidgoyal/calibre/releases/tag/v6.19.1)
+[Calibre 6.20.0](https://github.com/kovidgoyal/calibre/releases/tag/v6.20.0)
 
 
-REM Calibre 6.19.1
+REM Calibre 6.20.0
 REM http://calibre-ebook.com/download
-REM https://github.com/kovidgoyal/calibre/releases/tag/v6.19.1
+REM https://github.com/kovidgoyal/calibre/releases/tag/v6.20.0
 REM https://github.com/kovidgoyal/calibre/releases/download/v6.13.0/calibre-64bit-6.13.0.msi
-REM https://github.com/kovidgoyal/calibre/releases/download/v6.13.0/calibre-portable-installer-6.19.1.exe
+REM https://github.com/kovidgoyal/calibre/releases/download/v6.13.0/calibre-portable-installer-6.20.0.exe
 REM https://status.calibre-ebook.com/dist/win32
 REM https://calibre-ebook.com/dist/win64
 REM https://status.calibre-ebook.com/dist/portable
 
-SET VER=6.19.1
+SET VER=6.20.0
 SET PRGI=calibre
 SET PRGO=Calibre
 SET PTH=https://github.com/kovidgoyal/calibre/releases/download/v%VER%
