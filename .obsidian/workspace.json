@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/markdown.md",
+                "file": "Soft/WWW/Browser/Chrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/markdown.md",
+                "file": "Soft/WWW/Browser/Chrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/markdown.md",
+                "file": "Soft/WWW/Browser/Chrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/markdown.md"
+                "file": "Soft/WWW/Browser/Chrome.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
-    "Develop/Git.md",
+    "Soft/WWW/Browser/Centbrowser.md",
     "Develop/markdown.md",
+    "Develop/Git.md",
     "[.md",
     "ссылка.md",
     "Humor/anecdot.md",
@@ -186,7 +187,6 @@
     "Soft/Reader/Calibre.md",
     "Soft/Mail",
     "Soft/WWW/Downloader/VH/yt-dlp.md",
-    "Soft/Convert/Video/FFmpeg.md",
     "Soft/Convert/Video",
     "Soft/Convert",
     "Soft/WWW/Downloader/VH/yt-dlp_README.html",
