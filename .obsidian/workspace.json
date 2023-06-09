@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/markdown.md",
+                "file": "Develop/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/markdown.md",
+                "file": "Develop/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/markdown.md",
+                "file": "Develop/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/markdown.md"
+                "file": "Develop/Git.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
-    "[.md",
     "Develop/markdown.md",
+    "Develop/Git.md",
+    "[.md",
     "ссылка.md",
     "Humor/anecdot.md",
     "TheBat!.md",
@@ -188,7 +189,6 @@
     "Soft/Convert/Video/FFmpeg.md",
     "Soft/Convert/Video",
     "Soft/Convert",
-    "Soft/WWW/Downloader/VH/yt-dlp_README.md",
     "Soft/WWW/Downloader/VH/yt-dlp_README.html",
     "Soft/WWW/Downloader/VH",
     "Develop/ActiveState",
