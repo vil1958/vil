@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/Reader/Calibre.md",
+                "file": "Develop/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/Reader/Calibre.md",
+                "file": "Develop/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/Reader/Calibre.md",
+                "file": "Develop/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/Reader/Calibre.md"
+                "file": "Develop/Git.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "Soft/Reader/Calibre.md",
     "Develop/Git.md",
     "Develop/markdown.md",
     "[.md",
@@ -183,7 +184,6 @@
     "Soft/Player/Audio/Audacious.md",
     "OS/Unix/LINUX_Command_Cheat_Sheet.md",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
-    "Soft/Reader/Calibre.md",
     "Soft/Mail",
     "Soft/WWW/Downloader/VH/yt-dlp.md",
     "Soft/Convert/Video/FFmpeg.md",
