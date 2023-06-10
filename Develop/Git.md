@@ -7,9 +7,11 @@ Latest update: June 1st 2023
 сделал горячую клавишу для Git плагина: Ctr+Alt+g
 
 https://highload.today/git-push-git-pull-git-fetch/
+#push #pull #fetch #merge
 Давайте поближе познакомимся с командами: 
 `git push`, `git pull`, `git fetch` и `git merge`
 
+### git push
 Команда `git push`  в ходе выполнения переносит все изменения, внесенные юзером, в удаленный репозиторий (например, такой как GitHub):
 `Git push 'remote_name' 'branch_name'`
 
@@ -28,5 +30,7 @@ https://highload.today/git-push-git-pull-git-fetch/
 Команда `git commit --amend` применяется для обновления прошлого коммита. Только после этого измененный коммит вынужденно выпускается с помощью команды:
 `git push --force`
 
+### git pull
+Команда `git pull` отвечает за скачивание данных с сервера. Процесс очень похож на клонирование репозитория, но здесь скачиваются не все коммиты, а только новые.
 
 
