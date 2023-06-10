@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Git.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Git.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Git.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Git.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
-    "Soft/Reader/Calibre.md",
     "Develop/Git.md",
+    "Soft/Reader/Calibre.md",
     "Develop/markdown.md",
     "[.md",
     "ссылка.md",
