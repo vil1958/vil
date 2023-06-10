@@ -99,3 +99,4 @@ this is conflicted text from feature branch
 `git remote` — отображение удаленных репозиториев;
 `git pull <remote> <branch>` — получение данных из удаленного репозитория и слияние с локальным;
 `git push <remote> <branch>`— отправка локальных изменений на удаленный сервер.
+
