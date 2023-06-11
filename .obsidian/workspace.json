@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "OS/Windows/File_System.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "OS/Windows/File_System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "OS/Windows/File_System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humor/anecdot.md"
+                "file": "OS/Windows/File_System.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "Humor/anecdot.md",
     "Develop/Git.md",
     "Soft/Reader/Calibre.md",
     "Develop/markdown.md",
     "[.md",
     "ссылка.md",
-    "Humor/anecdot.md",
     "TheBat!.md",
     "Soft/Organizer/Obsidan.md",
     "Soft/WWW/Browser/Vivaldi.md",
