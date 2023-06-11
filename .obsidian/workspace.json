@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Windows/File_System.md",
+                "file": "Soft/WWW/Browser/Vivaldi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Windows/File_System.md",
+                "file": "Soft/WWW/Browser/Vivaldi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Windows/File_System.md",
+                "file": "Soft/WWW/Browser/Vivaldi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Windows/File_System.md"
+                "file": "Soft/WWW/Browser/Vivaldi.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "OS/Windows/File_System.md",
     "Humor/anecdot.md",
     "Develop/Git.md",
     "Soft/Reader/Calibre.md",
@@ -186,7 +187,6 @@
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
     "Soft/Mail",
     "Soft/WWW/Downloader/VH/yt-dlp.md",
-    "Soft/Convert/Video/FFmpeg.md",
     "Soft/Convert/Video",
     "Soft/Convert",
     "Soft/WWW/Downloader/VH/yt-dlp_README.html",
