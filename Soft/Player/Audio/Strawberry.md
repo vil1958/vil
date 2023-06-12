@@ -18,3 +18,9 @@ To add the PPA repository on Ubuntu use the following commands:
 
 For the latest development changes you can use `ppa:jonaski/strawberry-unstable` instead.
 `sudo add-apt-repository ppa:jonaski/strawberry-unstable`
+
+```
+sudo add-apt-repository ppa:jonaski/strawberry-unstable
+sudo apt update
+sudo apt install strawberry
+```

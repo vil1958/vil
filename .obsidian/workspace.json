@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md",
+                "file": "Net/samba.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md",
+                "file": "Net/samba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md",
+                "file": "Net/samba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md"
+                "file": "Net/samba.md"
               }
             }
           }
@@ -157,23 +157,27 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "Soft/Player/Video/mpv.md",
+    "Soft/Player/Audio/Strawberry.md",
+    "Soft/Shell/Double Commander.md",
+    "Soft/Tweak/bleachbit.md",
+    "Soft/WWW/Browser/Chrome.md",
+    "Soft/Net/Anydesk.md",
+    "Soft/Reader/Calibre.md",
+    "Soft/WWW/Browser/Vivaldi.md",
     "OS/Windows/File_System.md",
     "Humor/anecdot.md",
     "Develop/Git.md",
-    "Soft/Reader/Calibre.md",
     "Develop/markdown.md",
     "[.md",
     "ссылка.md",
     "TheBat!.md",
     "Soft/Organizer/Obsidan.md",
-    "Soft/WWW/Browser/Vivaldi.md",
     "Soft/WWW/Browser/User Agent.md",
     "Soft/WWW/Browser/FireFox.md",
     "Soft/Shell/Total Commander.md",
     "Soft/WWW/Browser/Yandex.md",
-    "Soft/WWW/Browser/Chrome.md",
     "OS/Unix/Ubuntu.md",
-    "Soft/Net/Anydesk.md",
     "Develop/Batch_cmd/example.md",
     "Develop/Batch_cmd/Batch.md",
     "Develop/Batch_cmd",
@@ -181,12 +185,8 @@
     "Develop/PowerShell",
     "OS/Windows/PowerShell.md",
     "OS/Unix/Admin_Tips&Trick.md",
-    "Soft/WWW/VoIP/Telegram.md",
-    "Soft/Player/Audio/Audacious.md",
-    "OS/Unix/LINUX_Command_Cheat_Sheet.md",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
     "Soft/Mail",
-    "Soft/WWW/Downloader/VH/yt-dlp.md",
     "Soft/Convert/Video",
     "Soft/Convert",
     "Soft/WWW/Downloader/VH/yt-dlp_README.html",

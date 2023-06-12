@@ -23,7 +23,8 @@ cd vivaldi-snapshot ./vivaldi-snapshot --user-data-dir=profile &
 cd vivaldi-snapshot ./vivaldi-snapshot --user-data-dir=/home/vil/.config/vivaldi-snapshot/Profile_vil1958 &
 ```
 
-Экс
+Экспериментальные возможности (сохранениее сесий):
+`vivaldi://experiments`
 
 Vivaldi.desktop
 ```

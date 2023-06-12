@@ -78,12 +78,14 @@
 
 ###### ).
 
-`echo 'deb http://download.opensuse.org/repositories/home:/Alexx2000:/doublecmd-svn/xUbuntu_22.04/ /' | sudo tee /etc/apt/sources.list.d/home:Alexx2000:doublecmd-svn.list`
+```
+echo 'deb http://download.opensuse.org/repositories/home:/Alexx2000:/doublecmd-svn/xUbuntu_22.04/ /' | sudo tee /etc/apt/sources.list.d/home:Alexx2000:doublecmd-svn.list
+curl -fsSL https://download.opensuse.org/repositories/home:Alexx2000:doublecmd-svn/xUbuntu_22.04/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_Alexx2000_doublecmd-svn.gpg > /dev/null
+sudo apt update
+sudo apt install doublecmd-gtk
+```
 
-`curl -fsSL https://download.opensuse.org/repositories/home:Alexx2000:doublecmd-svn/xUbuntu_22.04/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_Alexx2000_doublecmd-svn.gpg > /dev/null`
 
-`sudo apt update`
-`sudo apt install doublecmd-gtk`
 
 # **doublecmd-gtk**
 
