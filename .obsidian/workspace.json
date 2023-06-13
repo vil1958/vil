@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net/samba.md",
+                "file": "Net/Внешний IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net/samba.md",
+                "file": "Net/Внешний IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Net/samba.md",
+                "file": "Net/Внешний IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Net/samba.md"
+                "file": "Net/Внешний IP.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "().md",
+    "Net/Внешний IP.md",
+    "Net/samba.md",
     "Soft/Player/Video/mpv.md",
     "Soft/Player/Audio/Strawberry.md",
     "Soft/Shell/Double Commander.md",
@@ -181,10 +184,7 @@
     "Develop/Batch_cmd/example.md",
     "Develop/Batch_cmd/Batch.md",
     "Develop/Batch_cmd",
-    "Develop/PowerShell/example.md",
     "Develop/PowerShell",
-    "OS/Windows/PowerShell.md",
-    "OS/Unix/Admin_Tips&Trick.md",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
     "Soft/Mail",
     "Soft/Convert/Video",
