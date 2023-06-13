@@ -6,7 +6,8 @@
 
 Свой внешний IP адрес можно узнать с помощью одной из команд:
 ```
-chcp 1251
+REM chcp 1251
+chcp 866
 nslookup myip.opendns.com. resolver1.opendns.com  
 nslookup -type=any myip.opendns.com. resolver1.opendns.com
 ```
@@ -17,7 +18,6 @@ curl ifconfig.me
 curl -s checkip.dyndns.org  
 curl ipinfo.io/ip  
 curl v4.ident.me  
-curl v4.ifconfig.co  
-curl v6.ifconfig.co
 ```
 
+`curl -s checkip.dyndns.org | grep -Eo "[0-9][0-9.]{1,14}"`
