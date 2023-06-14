@@ -52,6 +52,9 @@ domain=nina.local
 Теперь открываем конфигурационный файл fstab:
 `sudo vi /etc/fstab`
 и добавляем в него следующее:
+рабочее у Нины:
+`//192.168.1.1/Transcend /mnt/Z cifs guest,vers=1.0,file_mode=0777,dir_mode=0777 0 0`
+
 ```
 //192.168.1.1/share /mnt/Z cifs user,rw,credentials=/root/.smbclient 0 0
 ```

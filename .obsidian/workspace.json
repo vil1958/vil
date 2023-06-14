@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net/Внешний IP.md",
+                "file": "Net/samba.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net/Внешний IP.md",
+                "file": "Net/samba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Net/Внешний IP.md",
+                "file": "Net/samba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Net/Внешний IP.md"
+                "file": "Net/samba.md"
               }
             }
           }
@@ -157,8 +158,9 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
-    "().md",
+    "Humor/anecdot.md",
     "Net/Внешний IP.md",
+    "().md",
     "Net/samba.md",
     "Soft/Player/Video/mpv.md",
     "Soft/Player/Audio/Strawberry.md",
@@ -169,7 +171,6 @@
     "Soft/Reader/Calibre.md",
     "Soft/WWW/Browser/Vivaldi.md",
     "OS/Windows/File_System.md",
-    "Humor/anecdot.md",
     "Develop/Git.md",
     "Develop/markdown.md",
     "[.md",
