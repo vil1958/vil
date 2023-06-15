@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net/samba.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net/samba.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Net/samba.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Net/samba.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -156,12 +156,12 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "d8203821e34665ad",
+  "active": "7ca88dfed3373a63",
   "lastOpenFiles": [
+    "Net/samba.md",
     "Humor/anecdot.md",
     "Net/Внешний IP.md",
     "().md",
-    "Net/samba.md",
     "Soft/Player/Video/mpv.md",
     "Soft/Player/Audio/Strawberry.md",
     "Soft/Shell/Double Commander.md",
