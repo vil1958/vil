@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "OS/Unix/sh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "OS/Unix/sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "OS/Unix/sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humor/anecdot.md"
+                "file": "OS/Unix/sh.md"
               }
             }
           }
@@ -156,10 +156,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "7ca88dfed3373a63",
+  "active": "d8203821e34665ad",
   "lastOpenFiles": [
-    "Net/samba.md",
     "Humor/anecdot.md",
+    "Net/samba.md",
     "Net/Внешний IP.md",
     "().md",
     "Soft/Player/Video/mpv.md",

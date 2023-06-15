@@ -449,5 +449,4 @@ STARTCMD="deluge-console resume \*"
  `ifconfig -s | grep -v 'Iface' | awk '{print $1}'`
 
 или если парсить вывод утилит, то я согласен с теми кто ратовал за утилиту ip. Ибо ifconfig давно deprecated.
-
 _`ip -o link show | awk -F' |:' '{print $3}'`_
