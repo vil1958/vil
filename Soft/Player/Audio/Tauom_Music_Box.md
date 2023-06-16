@@ -1,4 +1,4 @@
-Tauom_Music_Box 7.4.3-2
+Tauom_Music_Box 7.6.5-1
 
 REM Tauom_Music_Box
 REM https://www.slo.ru/news/entry/5578
