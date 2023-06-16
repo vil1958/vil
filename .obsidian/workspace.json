@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/Player/Audio/Tauon_Music_Box.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/Player/Audio/Tauon_Music_Box.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/Player/Audio/Tauon_Music_Box.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/Player/Audio/Tauon_Music_Box.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "Soft/Player/Audio/Tauon_Music_Box.md",
     "Soft/Tweak/Czkawka.md",
     "Soft/WWW/Browser/Vivaldi.md",
     "Humor/anecdot.md",
@@ -183,7 +184,6 @@
     "Soft/WWW/Browser/FireFox.md",
     "Soft/Shell/Total Commander.md",
     "Soft/WWW/Browser/Yandex.md",
-    "OS/Unix/Ubuntu.md",
     "Develop/Batch_cmd",
     "Develop/PowerShell",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
