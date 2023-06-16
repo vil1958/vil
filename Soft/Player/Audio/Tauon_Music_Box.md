@@ -1,9 +1,13 @@
-Tauom_Music_Box 7.6.5-1
+Tauon_Music_Box 7.6.5-1
 
-REM Tauom_Music_Box
-REM https://www.slo.ru/news/entry/5578
+```
+REM Tauon Music Box 7.6.5
+
+REM https://www.slo.ru/files/audio_players/tauon_music_box
 REM https://flathub.org/apps/details/com.github.taiko2k.tauonmb
-REM https://github.com/Taiko2k/TauonMusicBox/releases/download/v7.4.3/TauonMusicBox.v7.4.3-2.x64.exe
+REM https://github.com/Taiko2k/TauonMusicBox/releases/download/v7.6.5/TauonMusicBox.v7.6.5-1.x64.exe
+REM https://dl.flathub.org/repo/appstream/com.github.taiko2k.tauonmb.flatpakref
+```
 
 Tauom Music Box — быстрый аудиоплеер с симпатичным интерфейсом
 Познакомьтесь с Tauom Music Box — не такой популярный как  Audacious или  DeaDBeeF, но очень интересный аудиоплеер,
