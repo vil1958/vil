@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md",
+                "file": "Soft/Tweak/Czkawka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md",
+                "file": "Soft/Tweak/Czkawka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md",
+                "file": "Soft/Tweak/Czkawka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/WWW/Browser/Vivaldi.md"
+                "file": "Soft/Tweak/Czkawka.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "d8203821e34665ad",
   "lastOpenFiles": [
+    "Soft/WWW/Browser/Vivaldi.md",
     "Humor/anecdot.md",
     "OS/Unix/sh.md",
     "Net/samba.md",
@@ -170,7 +171,6 @@
     "Soft/WWW/Browser/Chrome.md",
     "Soft/Net/Anydesk.md",
     "Soft/Reader/Calibre.md",
-    "Soft/WWW/Browser/Vivaldi.md",
     "OS/Windows/File_System.md",
     "Develop/Git.md",
     "Develop/markdown.md",

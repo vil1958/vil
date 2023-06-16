@@ -1,5 +1,8 @@
 https://github.com/qarmin/czkawka
 
+[czkawka Version 6.0.0 - 11.06.2023](https://github.com/qarmin/Czkawka/releases/tag/6.0.0)
+
+
 https://github.com/qarmin/czkawka/blob/master/instructions/Installation.md
 
 [### PPA - Debian/Ubuntu (unofficial)](https://github.com/qarmin/czkawka/blob/master/instructions/Installation.md)
