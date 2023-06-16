@@ -1,9 +1,9 @@
 [Vivaldi (часть 6)](http://forum.ru-board.com/topic.cgi?forum=5&topic=51097&start=1940)
 [snapshot](https://downloads.vivaldi.com/snapshot/vivaldi-snapshot_6.1.3035.3-1_amd64.deb)
 
-Текущий финальный релиз:](https://vivaldi.com/download/) **6.0.2979.15** (19.04.2023)
+Текущий финальный релиз:](https://vivaldi.com/download/) **6.1.3035.84** (19.04.2023)
 
-Windows 10/11 [32-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.0.2979.15.exe) | [64-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.0.2979.15.x64.exe) | [Linux, macOS, Android](http://forum.ru-board.com/topic.cgi?forum=5&topic=51097&start=0&limit=1&m=1#1) [?]
+Windows 10/11 [32-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.84.exe) | [64-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.84.x64.exe) | [Linux, macOS, Android](http://forum.ru-board.com/topic.cgi?forum=5&topic=51097&start=0&limit=1&m=1#1) [?]
 
 [Тестовая сборка:](https://downloads.vivaldi.com/snapshot/vivaldi-snapshot_6.1.3035.12-1_amd64.deb)
 
