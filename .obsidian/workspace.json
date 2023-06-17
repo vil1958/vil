@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/Переходники.md",
+                "file": "Hardware/E-book.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/Переходники.md",
+                "file": "Hardware/E-book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/Переходники.md",
+                "file": "Hardware/E-book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/Переходники.md"
+                "file": "Hardware/E-book.md"
               }
             }
           }
@@ -172,6 +172,8 @@
   },
   "active": "daac1ad02732e565",
   "lastOpenFiles": [
+    "Hardware/Переходники.md",
+    "Hardware/E-book.md",
     "Proxy_servers.md",
     "Humor/anecdot.md",
     "Net/ProXY",
@@ -197,8 +199,6 @@
     "Soft/Reader/Calibre.md",
     "OS/Windows/File_System.md",
     "Develop/Git.md",
-    "Develop/markdown.md",
-    "[.md",
     "Develop/Batch_cmd",
     "Develop/PowerShell",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
