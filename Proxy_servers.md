@@ -4,4 +4,16 @@
 
 #### [KProxy](https://www.kproxy.com/)
 
-#### [HideMyAss (HMA)]()
+#### [Hide Me](https://hide.me/ru/proxy)
+
+#### [Hidester](https://hidester.com/ru/proxy/)
+
+#### [Anonymouse](http://anonymouse.org/vip.html)
+
+#### [NewIPNow](https://newipnow.com/)
+
+#### [ProxFree](https://www.proxfree.com/)
+
+#### [FilterByPass](https://www.filterbypass.me/)
+
+#### [CroxyProxy]()
