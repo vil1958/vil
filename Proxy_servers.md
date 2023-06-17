@@ -16,4 +16,9 @@
 
 #### [FilterByPass](https://www.filterbypass.me/)
 
-#### [CroxyProxy]()
+#### [CroxyProxy](https://www.croxyproxy.com/_ru/)
+
+#### [4everproxy](https://www.4everproxy.com/)
+
+#### [BlewPass](https://www.blewpass.com/)
+
