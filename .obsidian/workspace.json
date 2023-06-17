@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/E-book.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/E-book.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/E-book.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -170,10 +169,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "daac1ad02732e565",
+  "active": "fa15dc2927db0632",
   "lastOpenFiles": [
-    "Hardware/Переходники.md",
     "Hardware/E-book.md",
+    "Hardware/Переходники.md",
     "Proxy_servers.md",
     "Humor/anecdot.md",
     "Net/ProXY",
