@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy_servers.md",
+                "file": "Hardware/Переходники.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxy_servers.md",
+                "file": "Hardware/Переходники.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proxy_servers.md",
+                "file": "Hardware/Переходники.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy_servers.md"
+                "file": "Hardware/Переходники.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "daac1ad02732e565",
   "lastOpenFiles": [
-    "Humor/anecdot.md",
     "Proxy_servers.md",
+    "Humor/anecdot.md",
     "Net/ProXY",
     "ToDo/@eaDir.md",
     "Представление задач, виртуальные рабочие столы Windows 10.md",
