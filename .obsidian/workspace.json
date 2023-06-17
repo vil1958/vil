@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9352a86b9f3e4f",
+        "id": "a4e3f0234f47a50e",
         "type": "tabs",
         "children": [
           {
-            "id": "d8203821e34665ad",
+            "id": "fa15dc2927db0632",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,12 +156,18 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "d8203821e34665ad",
+  "active": "fa15dc2927db0632",
   "lastOpenFiles": [
+    "ToDo/@eaDir.md",
+    "Представление задач, виртуальные рабочие столы Windows 10.md",
+    "192.168.1.2/share/b/OS/LINUX/Cheat_Sheet/book_LINUX_Command_Line_(Cheat_Sheet).pdf.md",
+    "ссылка.md",
+    "Жэк_Дегтяревская_28_70/Kvartira_sale.md",
+    "Жэк_Дегтяревская_28_70/Укртелеком.md",
+    "Humor/anecdot.md",
     "Soft/Player/Audio/Tauon_Music_Box.md",
     "Soft/Tweak/Czkawka.md",
     "Soft/WWW/Browser/Vivaldi.md",
-    "Humor/anecdot.md",
     "OS/Unix/sh.md",
     "Net/samba.md",
     "Net/Внешний IP.md",
@@ -177,13 +183,7 @@
     "Develop/Git.md",
     "Develop/markdown.md",
     "[.md",
-    "ссылка.md",
     "TheBat!.md",
-    "Soft/Organizer/Obsidan.md",
-    "Soft/WWW/Browser/User Agent.md",
-    "Soft/WWW/Browser/FireFox.md",
-    "Soft/Shell/Total Commander.md",
-    "Soft/WWW/Browser/Yandex.md",
     "Develop/Batch_cmd",
     "Develop/PowerShell",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
