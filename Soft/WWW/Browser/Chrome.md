@@ -8,6 +8,9 @@ chrome://bookmarks/
 
 [Google Chrome 112.0.5615.121](https://www.slo.ru/files/browsers/google_chrome)
 
+Проверка версии движка Chromium на актуальность [Chromium Checker](https://chromiumchecker.com/)
+
+
 #plugin
 Browsec
 https://browsec.com/en/
