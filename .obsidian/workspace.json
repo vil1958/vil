@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/WWW/Browser/Chrome.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/WWW/Browser/Chrome.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/WWW/Browser/Chrome.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/WWW/Browser/Chrome.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -169,8 +169,9 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "fa15dc2927db0632",
+  "active": "7ca88dfed3373a63",
   "lastOpenFiles": [
+    "Soft/WWW/Browser/Chrome.md",
     "Humor/anecdot.md",
     "Hardware/E-book.md",
     "Hardware/Переходники.md",
@@ -193,7 +194,6 @@
     "Soft/Player/Audio/Strawberry.md",
     "Soft/Shell/Double Commander.md",
     "Soft/Tweak/bleachbit.md",
-    "Soft/WWW/Browser/Chrome.md",
     "Soft/Net/Anydesk.md",
     "Soft/Reader/Calibre.md",
     "OS/Windows/File_System.md",
