@@ -2,6 +2,12 @@
 
 #### [Поддержка ONYX BOOX Note Air 2](https://onyx-boox.ru/support/boox_noteair2)
 
+#### [Краткий обзор Note Air 2](https://www.youtube.com/watch?v=XG3_cC-npHA)
+
+[Чехол-обложка Onyx Boox для Nova Air Series](https://smartmag.biz.ua/ru/chekhol-oblozhka-onyx-boox-dlia-nova-air-series/)
+
+
+
 Технические характеристики
 
 Ознакомьтесь с детальными техническими параметрами процессора Qualcomm Snapdragon 662, включая кэш-память L2-L3, дату выпуска, сокет материнской платы, технологический процесс, набор ISA-инструкций и многое другое. Обратите внимание на L2 и L3 - чем выше этот показатель, тем лучше; аналогично, чем меньше техпроцесс, тем лучше.
