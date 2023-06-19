@@ -6,7 +6,7 @@
 
 [Чехол-обложка Onyx Boox для Nova Air Series](https://smartmag.biz.ua/ru/chekhol-oblozhka-onyx-boox-dlia-nova-air-series/)
 
-
+Самовывоз Новая Почта  ул. Довнар-Запольского 16А (НП 24)
 
 Технические характеристики
 
