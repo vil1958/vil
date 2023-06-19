@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/E-book.md",
+                "file": "Hardware/26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/E-book.md",
+                "file": "Hardware/26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/E-book.md",
+                "file": "Hardware/26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/E-book.md",
+                "file": "Hardware/26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/E-book.md"
+                "file": "Hardware/26.md"
               }
             }
           }
@@ -173,7 +173,7 @@
   "lastOpenFiles": [
     "Humor/anecdot.md",
     "Soft/WWW/Browser/Chrome.md",
-    "Hardware/E-book.md",
+    "Hardware/26.md",
     "Hardware/Переходники.md",
     "Proxy_servers.md",
     "Net/ProXY",
