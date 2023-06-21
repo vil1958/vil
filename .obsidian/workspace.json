@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/26.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/26.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/26.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/26.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -171,9 +171,9 @@
   },
   "active": "fa15dc2927db0632",
   "lastOpenFiles": [
+    "Hardware/26.md",
     "Humor/anecdot.md",
     "Soft/WWW/Browser/Chrome.md",
-    "Hardware/26.md",
     "Hardware/Переходники.md",
     "Proxy_servers.md",
     "Net/ProXY",
