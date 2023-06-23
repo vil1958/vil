@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Soft/Organizer/Obsidan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Soft/Organizer/Obsidan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Soft/Organizer/Obsidan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humor/anecdot.md"
+                "file": "Soft/Organizer/Obsidan.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "fa15dc2927db0632",
   "lastOpenFiles": [
-    "Hardware/26.md",
+    "yt-dlp.md",
     "Humor/anecdot.md",
+    "Hardware/26.md",
     "Soft/WWW/Browser/Chrome.md",
     "Hardware/Переходники.md",
     "Proxy_servers.md",
@@ -197,7 +198,6 @@
     "Soft/Net/Anydesk.md",
     "Soft/Reader/Calibre.md",
     "OS/Windows/File_System.md",
-    "Develop/Git.md",
     "Develop/Batch_cmd",
     "Develop/PowerShell",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",

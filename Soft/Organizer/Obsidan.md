@@ -94,5 +94,12 @@ https://losst.pro/kak-udalit-snap-paket
 После этого указанная ревизия будет удалена, место на диске освободится, но у вас останется рабочая версия Telegram. Хочу ещё раз предупредить, что системные пакеты трогать не стоит, это может вызвать проблемы.
 
 
+[How to link a local file in Obsidian?](https://forum.obsidian.md/t/how-to-link-a-local-file-in-obsidian/5815)
+
+I use [Service Station 444](https://servicestation.menu/) for this. It can add custom scripts to the Finder right-click menu. So I have a little script that grabs the filename and url-encodes it into an Obsidian-format link.
+
+I also use that same script in an Alfred workflow, so I can do the same thing for any file/folder that I search for in Alfred.
+
+Here’s a link to a gist of my script, in case anyone wants to borrow it.
 
 
