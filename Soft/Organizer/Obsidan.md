@@ -103,3 +103,5 @@ I also use that same script in an Alfred workflow, so I can do the same thing fo
 Here’s a link to a gist of my script, in case anyone wants to borrow it.
 
 
+[[./.attach/obsidian_link.sh]]
+
