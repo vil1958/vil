@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md",
+                "file": "Net/Netsh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md",
+                "file": "Net/Netsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md",
+                "file": "Net/Netsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md"
+                "file": "Net/Netsh.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "fa15dc2927db0632",
   "lastOpenFiles": [
-    "obsidian_link.sh.md",
+    "Net/samba.md",
     "Soft/Organizer/Obsidan.md",
+    "obsidian_link.sh.md",
     "yt-dlp.md",
     "Humor/anecdot.md",
     "Hardware/26.md",
@@ -190,7 +191,6 @@
     "Soft/Tweak/Czkawka.md",
     "Soft/WWW/Browser/Vivaldi.md",
     "OS/Unix/sh.md",
-    "Net/samba.md",
     "Net/Внешний IP.md",
     "().md",
     "Soft/Player/Video/mpv.md",
