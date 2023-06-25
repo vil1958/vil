@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net/Netsh.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net/Netsh.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Net/Netsh.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Net/Netsh.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "fa15dc2927db0632",
   "lastOpenFiles": [
+    "Net/Netsh.md",
     "Net/samba.md",
     "Soft/Organizer/Obsidan.md",
     "obsidian_link.sh.md",
@@ -197,7 +198,6 @@
     "Soft/Player/Audio/Strawberry.md",
     "Soft/Shell/Double Commander.md",
     "Soft/Tweak/bleachbit.md",
-    "Soft/Net/Anydesk.md",
     "Develop/Batch_cmd",
     "Develop/PowerShell",
     "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
