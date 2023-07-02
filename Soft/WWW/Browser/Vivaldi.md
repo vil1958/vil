@@ -1,18 +1,17 @@
 [Vivaldi (часть 6)](http://forum.ru-board.com/topic.cgi?forum=5&topic=51097&start=1940)
 [snapshot](https://downloads.vivaldi.com/snapshot/vivaldi-snapshot_6.1.3035.3-1_amd64.deb)
 
-Текущий финальный релиз:](https://vivaldi.com/download/) **6.1.3035.84** (19.04.2023)
+Текущий финальный релиз:](https://vivaldi.com/download/) **6.1.3035.111** (19.04.2023)
 
-Windows 10/11 [32-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.84.exe) | [64-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.84.x64.exe) | [Linux, macOS, Android](http://forum.ru-board.com/topic.cgi?forum=5&topic=51097&start=0&limit=1&m=1#1) [?]
+Windows 10/11 [32-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.111.exe) | [64-bit](https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.111.x64.exe) | [Linux, macOS, Android](http://forum.ru-board.com/topic.cgi?forum=5&topic=51097&start=0&limit=1&m=1#1) [?]
 
 [Тестовая сборка:](https://downloads.vivaldi.com/snapshot/vivaldi-snapshot_6.1.3035.12-1_amd64.deb)
-
 
 [vivaldi-snapshot_6.1.3035.12-1_amd64.deb](https://downloads.vivaldi.com/snapshot/vivaldi-snapshot_6.1.3035.12-1_amd64.deb)
 
 Путь к профилю `/home/vil/.config/vivaldi/Profile 1`
 
-/home/vil/.config/vivaldi-snapshot/Profile_vil1958
+`/home/vil/.config/vivaldi-snapshot/Profile_vil1958`
 
 Путь к профилю: `/home/vil/.config/vivaldi-snapshot/Profile_vil1958/Default`
 
@@ -101,10 +100,10 @@ Windows 10/11 [32-bit](https://downloads.vivaldi.com/snapshot/Vivaldi.6.0.2979.
 
 https://vivaldi.com/download/
 
-текущая версия: Vivaldi 6.0.2979.3 Final
+текущая версия: Vivaldi 6.1.3035.111 Final
 для просмотра версии:
 vivaldi://about/
-Vivaldi 6.0.2979.3 (Stable channel) (64 бита) 
+Vivaldi 6.1.3035.111 (Stable channel) (64 бита) 
 Версия 7dba05d7fcf6f361b9243b11c60685f954ff3b1a
 ОС Windows 10 Version 22H2 (Build 19045.2788)
 JavaScript V8 11.0.226.20
@@ -154,11 +153,11 @@ d:\Users\vil\AppData\Local\Vivaldi\User Data\Profile_vil1958
 Type this URL: vivaldi://flags
 
 ```
-REM 6.0.2979.3 (Stable channel) (64 бита) 
-REM https://downloads.vivaldi.com/stable/Vivaldi.6.0.2979.3.exe
-REM https://downloads.vivaldi.com/snapshot/Vivaldi.6.0.2979.3.x64.exe
+REM 6.1.3035.111 (Stable channel) (64 бита) 
+REM https://downloads.vivaldi.com/stable/Vivaldi.6.1.3035.111.exe
+REM https://downloads.vivaldi.com/snapshot/Vivaldi.6.1.3035.111.x64.exe
 
-SET VER=6.0.2979.3
+SET VER=6.1.3035.111
 SET PROG=Vivaldi
 SET PTH=https://downloads.vivaldi.com/stable
 SET REF=%PTH%

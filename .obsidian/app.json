@@ -3,5 +3,5 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "/attachments"
 }

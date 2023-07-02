@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "template/insert_DT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f281b797db6ba575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
@@ -21,19 +34,20 @@
             }
           },
           {
-            "id": "daac1ad02732e565",
+            "id": "b472ba06d68b14b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/26.md",
+                "file": "Develop/PowerShell/AppX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "template/insert_DT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "template/insert_DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humor/anecdot.md"
+                "file": "template/insert_DT.md"
               }
             }
           }
@@ -169,43 +183,52 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "fa15dc2927db0632",
+  "active": "7ca88dfed3373a63",
   "lastOpenFiles": [
-    "Net/Netsh.md",
-    "Net/samba.md",
-    "Soft/Organizer/Obsidan.md",
-    "obsidian_link.sh.md",
-    "yt-dlp.md",
+    "Soft/WWW/VoIP/WhatsApp.md",
+    "template/insert_DT.md",
+    "attachments/WhatsApp/whatsapp_01.webp",
+    "attachments/WhatsApp/whatsapp_01.jpg",
+    "attachments/WhatsApp/whatsapp_07.webp",
+    "attachments/WhatsApp/whatsapp_06.webp",
+    "attachments/WhatsApp/whatsapp_05.webp",
+    "attachments/WhatsApp/whatsapp_04.webp",
+    "attachments/WhatsApp/whatsapp_03.webp",
+    "attachments/WhatsApp/whatsapp_02.webp",
+    "attachments/WhatsApp",
+    "template/insert_DATE.md",
+    "template/insert_TIME.md",
+    "template/insert_TITLE.md",
     "Humor/anecdot.md",
-    "Hardware/26.md",
-    "Soft/WWW/Browser/Chrome.md",
-    "Hardware/Переходники.md",
-    "Proxy_servers.md",
-    "Net/ProXY",
-    "ToDo/@eaDir.md",
-    "Представление задач, виртуальные рабочие столы Windows 10.md",
-    "192.168.1.2/share/b/OS/LINUX/Cheat_Sheet/book_LINUX_Command_Line_(Cheat_Sheet).pdf.md",
-    "ссылка.md",
-    "Жэк_Дегтяревская_28_70/Kvartira_sale.md",
-    "Жэк_Дегтяревская_28_70/Укртелеком.md",
-    "Soft/Player/Audio/Tauon_Music_Box.md",
-    "Soft/Tweak/Czkawka.md",
+    "attachments/whatsapp_04.webp",
+    "attachments/whatsapp_05.webp",
+    "attachments/_get_wget.bat",
+    "attachments/book_LINUX_Command_Line_(Cheat_Sheet).pdf",
+    "attachments/obsidian_link.sh.md",
+    "attachments",
+    "template",
+    "Develop/PowerShell/example.md",
+    "Develop/PowerShell/AppX.md",
+    "Soft/Organizer/CherryTree.md",
+    "OS/Windows/Tips&Trick.md",
+    "WWW/Speed_WWW.md",
+    "OS/Windows/subst.md",
+    "OS/Windows/File_System.md",
+    "Net/Net_Disk_Access.md",
+    "Soft/Net/Psiphon.md",
+    "Soft/Net/OpenVPN.md",
     "Soft/WWW/Browser/Vivaldi.md",
-    "OS/Unix/sh.md",
-    "Net/Внешний IP.md",
-    "().md",
-    "Soft/Player/Video/mpv.md",
-    "Soft/Player/Audio/Strawberry.md",
-    "Soft/Shell/Double Commander.md",
-    "Soft/Tweak/bleachbit.md",
+    "Develop/Python/MakeDoc/Sphinx.md",
+    "Develop/Python/pip.md",
+    "Develop/Python/Install.md",
+    "Net/WebDAV.md",
+    "Develop/Python/MakeDoc",
+    "Net/ProXY/Proxy_servers.md",
+    "obsidian_link.sh.md",
+    "Develop/ActiveState/state.md",
+    "Soft/WWW/YouTube",
+    "Net/ProXY",
     "Develop/Batch_cmd",
-    "Develop/PowerShell",
-    "book_LINUX_Command_Line_(Cheat_Sheet).pdf",
-    "Soft/Mail",
-    "Soft/Convert/Video",
-    "Soft/Convert",
-    "Soft/WWW/Downloader/VH/yt-dlp_README.html",
-    "Soft/WWW/Downloader/VH",
-    "Develop/ActiveState"
+    "Develop/PowerShell"
   ]
 }

@@ -1,11 +1,14 @@
-[#### Python 3.11.3](https://www.python.org/downloads/release/python-3113/)
+[#### Python 3.11.4](https://www.python.org/downloads/release/python-3114/)
 
 
 [### Installing Without UI](https://docs.python.org/3.11/using/windows.html#installation-steps:~:text=enabled%20in%20Python.-,4.1.3.%20Installing%20Without%20UI,-%C2%B6)
 
 [Мой вариант:](http://wp.kraeftigerkaese.net/pub/python-v3-unattended-silent-install-w-xml/)
-`python-3.11.3-amd64 /quiet unattend.xml`
+`python-3.11.4-amd64 /quiet unattend.xml`
 [unattend.xml:[[unattend.xml]]
+
+
+
 
 ```
 <Options>
@@ -44,11 +47,11 @@ All other options are passed as `name=value`, where the value is usually `0` 
 
 For example, to silently install a default, system-wide Python installation, you could use the following command (from an elevated command prompt):
 
-python-3.9.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+`python-3.11.4.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0`
 
 To allow users to easily install a personal copy of Python without the test suite, you could provide a shortcut with the following command. This will display a simplified initial page and disallow customization:
 ```
-python-3.9.0.exe InstallAllUsers=0 Include_launcher=0 Include_test=0
+python-3.11.4.exe InstallAllUsers=0 Include_launcher=0 Include_test=0
     SimpleInstall=1 SimpleInstallDescription="Just for me, no test suite."
 ```
 

@@ -307,3 +307,10 @@ Plugin:
 
 `sudo apt update`
 `sudo apt install doublecmd-plugins`
+
+## [Файловые ассоциации](https://doublecmd.h1n.ru/viewtopic.php?t=7352&start=60&sid=bb32200dfdec94609e00e52021aa7e8b)
+#path #assoc 
+
+```
+В данном случае, в "Ассоциациях" в открывающемся окне терминала устанавливался «PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"» со всеми вытекающими последствиями.
+```

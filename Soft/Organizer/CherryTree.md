@@ -1,8 +1,8 @@
 cherrytree 
 
-# Cherrytree Portable 0.99.53 (hierarchical note taker) Released
+# Cherrytree Portable 0.99.56 (hierarchical note taker) Released
 Submitted by John T. Haller on December 18, 2022 - 2:19pm
-https://portableapps.com/news/2022-12-18--cherrytree-portable-0.99.53-released
+https://portableapps.com/news/2022-12-18--cherrytree-portable-0.99.56-released
 
 [https://github.com/giuspen/cherrytree](https://github.com/giuspen/cherrytree)
 https://www.giuspen.net/cherrytree/

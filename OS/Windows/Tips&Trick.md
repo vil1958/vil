@@ -21,6 +21,11 @@ cmd от имени Администратора запускать.
 ## Почему три слэша?
 Потому что это часть схемы [File URI](https://en.wikipedia.org/wiki/File_URI_scheme). У вас есть возможность указать хост после первых двух косых черт. Если вы пропустите указание хоста, он просто предположит, что вы ссылаетесь на файл на своем ПК. Другими словами: `file:///C:/etc` является ярлыком для `file://localhost/C:/etc`.
 
+##### [Boot into the BIOS directly from Windows](https://betanews.com/2023/06/27/boot-into-the-bios-directly-from-windows/)
+What you need to do is create a shortcut. Right-click a blank area on the desktop and go to **New > Shortcut.**
+In the wizard that opens, click in the box underneath **Type the location of the item**, and enter the following:
+`Shutdown /r /fw /t 1`
+If you're not familiar with these commands, /r means restart, /fw means boot to firmware (aka the BIOS) and /t introduces a delay in seconds before the restart begins. In our example above, that's one second.
 
 # Несколько версий Windows 10 подвержены сбою BSOD при загрузке
 https://www.comss.ru/page.php?id=11253
