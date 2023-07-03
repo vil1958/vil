@@ -1,4 +1,5 @@
 https://curl.se/windows/
+#downloader #curl #wget
 # curl 8.0.1 for Windows
 
 **Related:**  
