@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Soft/WWW/Downloader/wget.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Soft/WWW/Downloader/wget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Soft/WWW/Downloader/wget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humor/anecdot.md"
+                "file": "Soft/WWW/Downloader/wget.md"
               }
             }
           }
@@ -183,8 +183,11 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "7ca88dfed3373a63",
+  "active": "f281b797db6ba575",
   "lastOpenFiles": [
+    "Soft/WWW/Downloader/curl.md",
+    "Soft/WWW/Downloader/wget.md",
+    "Humor/anecdot.md",
     "Soft/Reader/Calibre.md",
     "Soft/Player/Video/SMPlayer.md",
     "Soft/Player/Video/mpv.md",
@@ -202,7 +205,6 @@
     "template/insert_DATE.md",
     "template/insert_TIME.md",
     "template/insert_TITLE.md",
-    "Humor/anecdot.md",
     "attachments/whatsapp_04.webp",
     "attachments/whatsapp_05.webp",
     "attachments/_get_wget.bat",
@@ -224,9 +226,7 @@
     "Develop/Python/MakeDoc/Sphinx.md",
     "Develop/Python/pip.md",
     "Develop/Python/Install.md",
-    "Net/WebDAV.md",
     "Develop/Python/MakeDoc",
-    "Net/ProXY/Proxy_servers.md",
     "Soft/WWW/YouTube",
     "Net/ProXY",
     "Develop/Batch_cmd",
