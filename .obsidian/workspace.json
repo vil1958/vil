@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/WWW/Downloader/curl.md",
+                "file": "Humor/anecdot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/WWW/Downloader/curl.md",
+                "file": "Humor/anecdot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/WWW/Downloader/curl.md",
+                "file": "Humor/anecdot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/WWW/Downloader/curl.md"
+                "file": "Humor/anecdot.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f281b797db6ba575",
+  "active": "7ca88dfed3373a63",
   "lastOpenFiles": [
-    "Soft/WWW/Downloader/wget.md",
     "Soft/WWW/Downloader/curl.md",
+    "Soft/WWW/Downloader/wget.md",
     "Humor/anecdot.md",
     "Soft/Reader/Calibre.md",
     "Soft/Player/Video/SMPlayer.md",
