@@ -28,3 +28,11 @@ yt-dlp:
 sudo apt-get install yt-dlp=2022.11.11-1~bpo11+1
 ```
 
+[разные настройки](http://forum.ru-board.com/topic.cgi?forum=5&bm=1&topic=49719&start=2340#lt:~:text=of%20available%20formats-,%D0%B0%20%D0%B2%D0%BE%D1%82%20%D1%82%D0%B0%D0%BA%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE,-yt%2Ddlp%20%2Df)
+
+а вот так нормально    
+`yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]" `
+а вот так уже ошибка  
+`yt-dlp -f "bestvideo**[height=1080]**[ext=mp4]+bestaudio[ext=m4a]"`  
+а если добавить **<** то все становится норм  
+`yt-dlp -f "bestvideo[height**<**=1080][ext=mp4]+bestaudio[ext=m4a]"`
