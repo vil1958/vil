@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Net/reset net config.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Net/reset net config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humor/anecdot.md",
+                "file": "Net/reset net config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humor/anecdot.md"
+                "file": "Net/reset net config.md"
               }
             }
           }
@@ -183,11 +183,12 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "7ca88dfed3373a63",
+  "active": "f281b797db6ba575",
   "lastOpenFiles": [
+    "Humor/anecdot.md",
+    "Net/reset net config.md",
     "Soft/WWW/Downloader/curl.md",
     "Soft/WWW/Downloader/wget.md",
-    "Humor/anecdot.md",
     "Soft/Reader/Calibre.md",
     "Soft/Player/Video/SMPlayer.md",
     "Soft/Player/Video/mpv.md",
@@ -225,7 +226,6 @@
     "Soft/WWW/Browser/Vivaldi.md",
     "Develop/Python/MakeDoc/Sphinx.md",
     "Develop/Python/pip.md",
-    "Develop/Python/Install.md",
     "Develop/Python/MakeDoc",
     "Soft/WWW/YouTube",
     "Net/ProXY",
