@@ -185,6 +185,8 @@
   },
   "active": "f281b797db6ba575",
   "lastOpenFiles": [
+    "attachments/alias/windows-cmd-aliases-master.zip",
+    "attachments/alias",
     "Soft/WWW/YouTube/yt-dlp.md",
     "OS/Windows/alias.md",
     "Soft/TCIMG.md",
@@ -225,11 +227,9 @@
     "OS/Windows/File_System.md",
     "Net/Net_Disk_Access.md",
     "Soft/Net/Psiphon.md",
-    "Soft/Net/OpenVPN.md",
     "Develop/Python/MakeDoc",
     "Soft/WWW/YouTube",
     "Net/ProXY",
-    "Develop/Batch_cmd",
-    "Develop/PowerShell"
+    "Develop/Batch_cmd"
   ]
 }
