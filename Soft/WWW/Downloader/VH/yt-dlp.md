@@ -2355,7 +2355,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#contributing-to-yt-dlp) for instructions o
 # WIKI
 See the [Wiki](https://github.com/yt-dlp/yt-dlp/wiki) for more information
 
-
-
-
+#cookies
+поддерживаются только Brave, Chrome, chromium, Edge, Firefox, Opera, Safari, Vivaldi
+`yt-dlp -F [https://vk.com/video-193416911_456239233](https://vk.com/video-193416911_456239233) --cookies-from-browser Chrome`
 
