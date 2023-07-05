@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e3f0234f47a50e",
+        "id": "8d882a9b3c8989f6",
         "type": "tabs",
         "children": [
           {
-            "id": "fa15dc2927db0632",
+            "id": "9fbc43243a88522b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/insert_DT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f281b797db6ba575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Windows/alias.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b472ba06d68b14b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Develop/PowerShell/AppX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Windows/alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Windows/alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OS/Windows/alias.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,12 +147,13 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f281b797db6ba575",
+  "active": "9fbc43243a88522b",
   "lastOpenFiles": [
+    "Develop/PowerShell/AppX.md",
+    "OS/Windows/alias.md",
     "attachments/alias/windows-cmd-aliases-master.zip",
     "attachments/alias",
     "Soft/WWW/YouTube/yt-dlp.md",
-    "OS/Windows/alias.md",
     "Soft/TCIMG.md",
     "Soft/WWW/VoIP/WhatsApp.md",
     "Net/reset net config.md",
@@ -219,7 +184,6 @@
     "attachments",
     "template",
     "Develop/PowerShell/example.md",
-    "Develop/PowerShell/AppX.md",
     "Soft/Organizer/CherryTree.md",
     "OS/Windows/Tips&Trick.md",
     "WWW/Speed_WWW.md",
@@ -229,7 +193,6 @@
     "Soft/Net/Psiphon.md",
     "Develop/Python/MakeDoc",
     "Soft/WWW/YouTube",
-    "Net/ProXY",
-    "Develop/Batch_cmd"
+    "Net/ProXY"
   ]
 }
