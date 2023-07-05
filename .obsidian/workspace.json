@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/WWW/Downloader/VH/yt-dlp.md",
+                "file": "Hardware/NAS/Synology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/WWW/Downloader/VH/yt-dlp.md",
+                "file": "Hardware/NAS/Synology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/WWW/Downloader/VH/yt-dlp.md",
+                "file": "Hardware/NAS/Synology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/WWW/Downloader/VH/yt-dlp.md"
+                "file": "Hardware/NAS/Synology.md"
               }
             }
           }
@@ -156,8 +156,9 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "9fbc43243a88522b",
+  "active": "7ca88dfed3373a63",
   "lastOpenFiles": [
+    "Soft/WWW/Downloader/VH/yt-dlp.md",
     "Develop/PowerShell/AppX.md",
     "OS/Windows/alias.md",
     "attachments/alias/windows-cmd-aliases-master.zip",
