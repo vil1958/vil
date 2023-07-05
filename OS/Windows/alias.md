@@ -73,9 +73,82 @@ you may make the alias(es) _persistent_ with the following steps,
     
 
 This way, every time cmd is run, the aliases are loaded
+**For Windows 10 or Windows 11**, add the entry to `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor` instead.
 
+(For Windows 11, also note that by default the "Terminal App" points to PowerShell. Search "cmd" for command prompt.)
 
+For completeness, here is a template to illustrate the kind of aliases one may find useful.
+```
+@echo off
 
+:: Temporary system path at cmd startup
+
+set PATH=%PATH%;"C:\Program Files\Sublime Text 2\"
+
+:: Add to path by command
+
+DOSKEY add_python26=set PATH=%PATH%;"C:\Python26\"
+DOSKEY add_python33=set PATH=%PATH%;"C:\Python33\"
+
+:: Commands
+
+DOSKEY ls=dir /B $*
+DOSKEY sublime=sublime_text $*  
+    ::sublime_text.exe is name of the executable. By adding a temporary entry to system path, we don't have to write the whole directory anymore.
+DOSKEY gsp="C:\Program Files (x86)\Sketchpad5\GSP505en.exe"
+DOSKEY alias=notepad %USERPROFILE%\Dropbox\alias.cmd
+
+:: Common directories
+
+DOSKEY dropbox=cd "%USERPROFILE%\Dropbox\$*"
+DOSKEY research=cd %USERPROFILE%\Dropbox\Research\
+```
+- Note that the `$*` syntax works after a directory string as well as an executable which takes in arguments. So in the above example, the user-defined command `dropbox research` points to the same directory as `research`.
+- As Rivenfall pointed out, it is a good idea to include a command that allows for convenient editing of the `alias.cmd` file. See `alias` above. If you are in a cmd session, enter `cmd` to restart cmd and reload the `alias.cmd` file.
+
+---
+
+When I searched the internet for an answer to the question, somehow the discussions were either focused on persistence only or on some usage of DOSKEY only. I hope someone will benefit from these two aspects being together here!
+
+---
+
+Here's a `.reg` file to help you install the `alias.cmd`. It's set now as an example to a dropbox folder as suggested above.
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Command Processor]
+"AutoRun"="%USERPROFILE%\\alias.cmd"
+```
+For single-user applications, the above will do. Nevertheless, there are situations where it is necessary to check whether `alias.cmd` exists first in the registry key. See example below.
+
+In a `C:\Users\Public\init.cmd` file hosting potentially cross-user configurations:
+
+```
+@ECHO OFF
+REM Add other configurations as needed
+IF EXIST "%USERPROFILE%\alias.cmd" ( CALL "%USERPROFILE%\alias.cmd" )
+```
+
+The registry key should be updated correspondly to `C:\Users\Public\init.cmd` or, using the `.reg` file:
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Command Processor]
+"AutoRun"="C:\\Users\\Public\\init.cmd"
+```
+
+#### [Aliases for Windows CLI (cmd.exe)](https://github.com/azurre/windows-cmd-aliases)
+
+# Aliases for Windows CLI (cmd.exe)
+
+The Windows shell (cmd.exe) doesn't support aliases by default. But we can make it work with them using the doskey utility. Doskey is a part of the Windows so you don't need to install anything else.
+
+## [](https://github.com/azurre/windows-cmd-aliases#installation)Installation
+
+- Download latest [https://github.com/azurre/windows-cmd-aliases/archive/master.zip](https://github.com/azurre/windows-cmd-aliases/archive/master.zip)
+- run install.bat
 
 #### [Doskey](https://learn.microsoft.com/ru-ru/previous-versions/windows/it-pro/windows-xp/bb490894(v=technet.10))
 
