@@ -156,8 +156,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "7ca88dfed3373a63",
+  "active": "9fbc43243a88522b",
   "lastOpenFiles": [
+    "Net/ntp.md",
+    "Hardware/NAS/Synology.md",
     "Soft/WWW/Downloader/VH/yt-dlp.md",
     "Develop/PowerShell/AppX.md",
     "OS/Windows/alias.md",
@@ -199,8 +201,6 @@
     "WWW/Speed_WWW.md",
     "OS/Windows/subst.md",
     "OS/Windows/File_System.md",
-    "Net/Net_Disk_Access.md",
-    "Soft/Net/Psiphon.md",
     "Develop/Python/MakeDoc",
     "Soft/WWW/YouTube",
     "Net/ProXY"

@@ -26,6 +26,8 @@ router port            localport 192.168.1.2 TCP
 
 #### [Служба NTP](https://kb.synology.com/ru-ru/DSM/help/DSM/AdminCenter/system_ntpservice?version=7)
 
+^26b05c
+
 #ntp
 Вы можете сделать Synology NAS сервером сетевого времени для синхронизации времени между разными сетевыми устройствами и Synology NAS по сети.
 
