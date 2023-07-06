@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/NAS/Synology.md",
+                "file": "Soft/Organizer/Obsidan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/NAS/Synology.md",
+                "file": "Soft/Organizer/Obsidan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/NAS/Synology.md",
+                "file": "Soft/Organizer/Obsidan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/NAS/Synology.md"
+                "file": "Soft/Organizer/Obsidan.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "9fbc43243a88522b",
   "lastOpenFiles": [
-    "Net/ntp.md",
     "Hardware/NAS/Synology.md",
+    "Net/ntp.md",
     "Soft/WWW/Downloader/VH/yt-dlp.md",
     "Develop/PowerShell/AppX.md",
     "OS/Windows/alias.md",

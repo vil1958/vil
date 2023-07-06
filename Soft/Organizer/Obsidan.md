@@ -5,6 +5,7 @@ What's new in v1.3.5
 - New app icon! Learn more [on our blog](https://obsidian.md/blog/new-obsidian-icon/). Requires [downloading the new installer](https://obsidian.md/download).
 
 ![new app icon](https://obsidian.md/images/2023-06-logo.png)
+другие органайзеры: Logseq, SiYuan, Affine, Remnote
 
 ## Improvements
 
