@@ -1,4 +1,4 @@
-1.0.14
+1.0.18
 музыкальный плеер, ориентированный на формирование коллекции
 https://www.slo.ru/files/audio_players/strawberry
 

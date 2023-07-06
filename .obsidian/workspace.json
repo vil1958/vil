@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md",
+                "file": "Soft/Player/Audio/Strawberry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md",
+                "file": "Soft/Player/Audio/Strawberry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md",
+                "file": "Soft/Player/Audio/Strawberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft/Organizer/Obsidan.md"
+                "file": "Soft/Player/Audio/Strawberry.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "9fbc43243a88522b",
   "lastOpenFiles": [
+    "Soft/Organizer/Obsidan.md",
     "Hardware/NAS/Synology.md",
     "Net/ntp.md",
     "Soft/WWW/Downloader/VH/yt-dlp.md",
@@ -200,7 +201,6 @@
     "OS/Windows/Tips&Trick.md",
     "WWW/Speed_WWW.md",
     "OS/Windows/subst.md",
-    "OS/Windows/File_System.md",
     "Develop/Python/MakeDoc",
     "Soft/WWW/YouTube",
     "Net/ProXY"
