@@ -8,6 +8,8 @@ Official repository: [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-d
 yt-dlp makes the best effort to be a good command-line program, and thus should be callable from any programming language.
 
 Your program should avoid parsing the normal stdout since they may change in future versions. Instead they should use options such as `-J`, `--print`, `--progress-template`, `--exec` etc to create console output that you can reliably reproduce and parse.
+пришлось установить модуль yt_dlp:
+`pip install yt_dlp`
 
 From a Python program, you can embed yt-dlp in a more powerful fashion, like this:
 ```
